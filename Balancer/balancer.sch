@@ -13312,7 +13312,6 @@ Source:
 <part name="C5K" library="Ilya_Teach" deviceset="CAP" device="" value="1uF"/>
 <part name="C4K" library="Ilya_Teach" deviceset="CAP" device="" value="1uF"/>
 <part name="C3K" library="Ilya_Teach" deviceset="CAP" device="" value="1uF"/>
-<part name="R47" library="Ilya_Teach" deviceset="RES" device="" value="2k"/>
 <part name="R20" library="Ilya_Teach" deviceset="RES" device="" value="33.2k"/>
 <part name="R19" library="Ilya_Teach" deviceset="RES" device="" value="23.7k"/>
 <part name="C1" library="Ilya_Teach" deviceset="CAP" device="" value="1.0uF"/>
@@ -13664,10 +13663,6 @@ Source:
 <instance part="C3K" gate="G$1" x="60.96" y="33.02" smashed="yes">
 <attribute name="NAME" x="62.484" y="35.941" size="1.778" layer="95"/>
 <attribute name="VALUE" x="62.484" y="30.861" size="1.778" layer="96"/>
-</instance>
-<instance part="R47" gate="G$1" x="-25.4" y="25.4" smashed="yes" rot="R90">
-<attribute name="NAME" x="-26.8986" y="21.59" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-22.098" y="21.59" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R20" gate="G$1" x="-35.56" y="25.4" smashed="yes" rot="R90">
 <attribute name="NAME" x="-37.0586" y="21.59" size="1.778" layer="95" rot="R90"/>
@@ -15756,11 +15751,6 @@ Source:
 <pinref part="JP1" gate="A" pin="3"/>
 <wire x1="-5.08" y1="48.26" x2="-25.4" y2="48.26" width="0.1524" layer="91"/>
 </segment>
-<segment>
-<pinref part="R47" gate="G$1" pin="2"/>
-<wire x1="-25.4" y1="30.48" x2="-25.4" y2="35.56" width="0.1524" layer="91"/>
-<label x="-25.4" y="33.02" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="SCKI" class="0">
 <segment>
@@ -15901,13 +15891,6 @@ Source:
 <pinref part="R6F" gate="G$1" pin="2"/>
 <wire x1="22.86" y1="347.98" x2="25.4" y2="347.98" width="0.1524" layer="91"/>
 <label x="22.86" y="347.98" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="VREG1" class="0">
-<segment>
-<pinref part="R47" gate="G$1" pin="1"/>
-<wire x1="-25.4" y1="20.32" x2="-25.4" y2="15.24" width="0.1524" layer="91"/>
-<label x="-25.4" y="15.24" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="WDTA" class="0">
