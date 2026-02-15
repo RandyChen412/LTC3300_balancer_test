@@ -13066,6 +13066,7 @@ Source:
 <attribute name="VALUE" x="74.676" y="46.609" size="1.778" layer="96"/>
 </instance>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <instance part="C12" gate="G$1" x="88.9" y="55.88" smashed="yes">
 <attribute name="NAME" x="89.916" y="56.515" size="1.778" layer="95"/>
 <attribute name="VALUE" x="89.916" y="51.689" size="1.778" layer="96"/>
@@ -13073,6 +13074,11 @@ Source:
 <instance part="C14" gate="G$1" x="99.06" y="55.88" smashed="yes">
 <attribute name="NAME" x="100.076" y="56.515" size="1.778" layer="95"/>
 <attribute name="VALUE" x="100.076" y="51.689" size="1.778" layer="96"/>
+=======
+<instance part="C12" gate="G$1" x="53.34" y="35.56" smashed="yes">
+<attribute name="NAME" x="54.356" y="36.195" size="1.778" layer="95"/>
+<attribute name="VALUE" x="54.356" y="31.369" size="1.778" layer="96"/>
+>>>>>>> Stashed changes
 =======
 <instance part="C12" gate="G$1" x="53.34" y="35.56" smashed="yes">
 <attribute name="NAME" x="54.356" y="36.195" size="1.778" layer="95"/>
@@ -14398,11 +14404,14 @@ Source:
 </segment>
 <segment>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <wire x1="99.06" y1="50.8" x2="99.06" y2="48.26" width="0.1524" layer="91"/>
 <label x="99.06" y="48.26" size="1.778" layer="95"/>
 <pinref part="C14" gate="G$1" pin="2"/>
 </segment>
 <segment>
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <pinref part="R19" gate="G$1" pin="1"/>
@@ -14650,11 +14659,17 @@ Source:
 <pinref part="C3K" gate="G$1" pin="1"/>
 <label x="40.64" y="38.1" size="1.778" layer="95"/>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 </segment>
 <segment>
 <label x="88.9" y="63.5" size="1.778" layer="95"/>
 <pinref part="C12" gate="G$1" pin="1"/>
 <wire x1="88.9" y1="58.42" x2="88.9" y2="66.04" width="0.1524" layer="91"/>
+=======
+<pinref part="C12" gate="G$1" pin="1"/>
+<wire x1="53.34" y1="38.1" x2="60.96" y2="38.1" width="0.1524" layer="91"/>
+<junction x="53.34" y="38.1"/>
+>>>>>>> Stashed changes
 =======
 <pinref part="C12" gate="G$1" pin="1"/>
 <wire x1="53.34" y1="38.1" x2="60.96" y2="38.1" width="0.1524" layer="91"/>
@@ -14882,6 +14897,7 @@ Source:
 </segment>
 </net>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <net name="C1" class="0">
 <segment>
 <wire x1="88.9" y1="50.8" x2="88.9" y2="48.26" width="0.1524" layer="91"/>
@@ -14889,6 +14905,8 @@ Source:
 <pinref part="C12" gate="G$1" pin="2"/>
 </segment>
 </net>
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <net name="G1P" class="0">

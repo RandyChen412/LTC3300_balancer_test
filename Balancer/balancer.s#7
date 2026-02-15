@@ -13097,10 +13097,13 @@ Source:
 <attribute name="NAME" x="77.47" y="73.66" size="1.27" layer="95" rot="R180" align="bottom-center"/>
 </instance>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <instance part="R2" gate="G$1" x="86.36" y="81.28" smashed="yes" rot="R270">
 <attribute name="NAME" x="87.8586" y="85.09" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="83.058" y="85.09" size="1.778" layer="96" rot="R270"/>
 =======
+=======
+>>>>>>> Stashed changes
 <instance part="R6" gate="G$1" x="-45.72" y="88.9" smashed="yes" rot="R270">
 <attribute name="NAME" x="-44.2214" y="92.71" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="-49.022" y="92.71" size="1.778" layer="96" rot="R270"/>
@@ -14028,10 +14031,13 @@ Source:
 </segment>
 <segment>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="86.36" y1="86.36" x2="86.36" y2="88.9" width="0.1524" layer="91"/>
 <label x="86.36" y="88.9" size="1.778" layer="95"/>
 =======
+=======
+>>>>>>> Stashed changes
 <pinref part="R6" gate="G$1" pin="1"/>
 <wire x1="-45.72" y1="93.98" x2="-45.72" y2="96.52" width="0.1524" layer="91"/>
 <label x="-45.72" y="96.52" size="1.778" layer="95"/>
@@ -14486,6 +14492,9 @@ Source:
 =======
 <junction x="-58.42" y="60.96"/>
 <label x="-66.04" y="60.96" size="1.778" layer="95"/>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </segment>
 <segment>
@@ -15148,9 +15157,12 @@ Source:
 <segment>
 <pinref part="D2" gate="G$1" pin="A"/>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="81.28" y1="76.2" x2="86.36" y2="76.2" width="0.1524" layer="91"/>
 =======
+=======
+>>>>>>> Stashed changes
 <pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="-50.8" y1="83.82" x2="-45.72" y2="83.82" width="0.1524" layer="91"/>
 >>>>>>> Stashed changes

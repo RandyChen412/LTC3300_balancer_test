@@ -15164,6 +15164,9 @@ Source:
 <label x="-22.86" y="50.8" size="1.778" layer="95"/>
 <pinref part="U1" gate="A" pin="CTRL"/>
 <wire x1="-5.08" y1="50.8" x2="-25.4" y2="50.8" width="0.1524" layer="91"/>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </segment>
 </net>

@@ -14743,6 +14743,11 @@ Source:
 <pinref part="U1" gate="A" pin="CSBI"/>
 <wire x1="-5.08" y1="48.26" x2="-10.16" y2="48.26" width="0.1524" layer="91"/>
 <label x="-7.62" y="48.26" size="1.778" layer="95"/>
+<<<<<<< Updated upstream
+=======
+<pinref part="JP1" gate="A" pin="3"/>
+<wire x1="-5.08" y1="48.26" x2="-25.4" y2="48.26" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="SCKI" class="0">

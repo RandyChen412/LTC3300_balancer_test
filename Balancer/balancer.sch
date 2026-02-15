@@ -14501,8 +14501,13 @@ Source:
 <attribute name="NAME" x="-255.27" y="87.63" size="1.778" layer="95" rot="R180" align="center-left"/>
 </instance>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <instance part="F3" gate="G$1" x="-231.14" y="88.9" smashed="yes" rot="R180">
 <attribute name="NAME" x="-232.41" y="85.09" size="1.778" layer="95" rot="R180" align="center-left"/>
+=======
+<instance part="F10" gate="G$1" x="-228.6" y="88.9" smashed="yes" rot="R180">
+<attribute name="NAME" x="-229.87" y="85.09" size="1.778" layer="95" rot="R180" align="center-left"/>
+>>>>>>> Stashed changes
 =======
 <instance part="F10" gate="G$1" x="-228.6" y="88.9" smashed="yes" rot="R180">
 <attribute name="NAME" x="-229.87" y="85.09" size="1.778" layer="95" rot="R180" align="center-left"/>
@@ -14518,8 +14523,13 @@ Source:
 <attribute name="NAME" x="-255.27" y="77.47" size="1.778" layer="95" rot="R180" align="center-left"/>
 </instance>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <instance part="F7" gate="G$1" x="-231.14" y="78.74" smashed="yes" rot="R180">
 <attribute name="NAME" x="-232.41" y="74.93" size="1.778" layer="95" rot="R180" align="center-left"/>
+=======
+<instance part="F4" gate="G$1" x="-228.6" y="78.74" smashed="yes" rot="R180">
+<attribute name="NAME" x="-229.87" y="74.93" size="1.778" layer="95" rot="R180" align="center-left"/>
+>>>>>>> Stashed changes
 =======
 <instance part="F4" gate="G$1" x="-228.6" y="78.74" smashed="yes" rot="R180">
 <attribute name="NAME" x="-229.87" y="74.93" size="1.778" layer="95" rot="R180" align="center-left"/>
@@ -15090,6 +15100,9 @@ Source:
 <pinref part="F4" gate="G$1" pin="1"/>
 <pinref part="E5" gate="G$1" pin="1"/>
 <wire x1="-226.06" y1="78.74" x2="-228.6" y2="78.74" width="0.1524" layer="91"/>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <label x="-228.6" y="76.2" size="1.778" layer="95"/>
 </segment>
@@ -15288,10 +15301,15 @@ Source:
 <pinref part="C3K" gate="G$1" pin="2"/>
 <pinref part="U1" gate="A" pin="C2"/>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <wire x1="60.96" y1="30.48" x2="50.8" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="30.48" x2="40.64" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="35.56" x2="50.8" y2="30.48" width="0.1524" layer="91"/>
 <junction x="50.8" y="30.48"/>
+=======
+<wire x1="60.96" y1="30.48" x2="53.34" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="30.48" x2="40.64" y2="30.48" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 =======
 <wire x1="60.96" y1="30.48" x2="53.34" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="53.34" y1="30.48" x2="40.64" y2="30.48" width="0.1524" layer="91"/>
@@ -15325,6 +15343,9 @@ Source:
 <wire x1="71.12" y1="35.56" x2="71.12" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="71.12" y1="30.48" x2="60.96" y2="30.48" width="0.1524" layer="91"/>
 <junction x="60.96" y="30.48"/>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </segment>
 <segment>
@@ -17126,15 +17147,21 @@ Source:
 </segment>
 <segment>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pinref part="F3" gate="G$1" pin="1"/>
 <pinref part="E4" gate="G$1" pin="1"/>
 <wire x1="-226.06" y1="88.9" x2="-231.14" y2="88.9" width="0.1524" layer="91"/>
 <label x="-231.14" y="88.9" size="1.778" layer="95"/>
 =======
+=======
+>>>>>>> Stashed changes
 <pinref part="F10" gate="G$1" pin="1"/>
 <pinref part="E12" gate="G$1" pin="1"/>
 <wire x1="-226.06" y1="88.9" x2="-228.6" y2="88.9" width="0.1524" layer="91"/>
 <label x="-228.6" y="88.9" size="1.778" layer="95"/>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </segment>
 <segment>
@@ -17988,6 +18015,9 @@ Source:
 =======
 <pinref part="F10" gate="G$1" pin="2"/>
 <wire x1="-246.38" y1="88.9" x2="-248.92" y2="88.9" width="0.1524" layer="91"/>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </segment>
 </net>
@@ -18019,6 +18049,9 @@ Source:
 =======
 <pinref part="F4" gate="G$1" pin="2"/>
 <wire x1="-246.38" y1="78.74" x2="-248.92" y2="78.74" width="0.1524" layer="91"/>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </segment>
 </net>
