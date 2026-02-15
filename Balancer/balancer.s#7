@@ -12748,7 +12748,7 @@ Source:
 <part name="C3" library="Ilya_Teach" deviceset="CAP" device="" value="0.1uF"/>
 <part name="D1" library="DO-214AA" deviceset="WE-TVSP_DO-214AA_600W_UNI" device=""/>
 <part name="D2" library="DO-214AA" deviceset="WE-TVSP_DO-214AA_600W_UNI" device=""/>
-<part name="R2" library="Ilya_Teach" deviceset="RES" device="" value="6.81"/>
+<part name="R6" library="Ilya_Teach" deviceset="RES" device="" value="6.81"/>
 <part name="R5" library="Ilya_Teach" deviceset="RES" device="" value="0 ohm"/>
 <part name="D10" library="CMOD6263" deviceset="1N4448HWT-7" device=""/>
 <part name="Q2" library="MMBT3906LT1G" deviceset="MMBT3906LT1G" device=""/>
@@ -13096,9 +13096,15 @@ Source:
 <instance part="D2" gate="G$1" x="76.2" y="76.2" smashed="yes" rot="R180">
 <attribute name="NAME" x="77.47" y="73.66" size="1.27" layer="95" rot="R180" align="bottom-center"/>
 </instance>
+<<<<<<< Updated upstream
 <instance part="R2" gate="G$1" x="86.36" y="81.28" smashed="yes" rot="R270">
 <attribute name="NAME" x="87.8586" y="85.09" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="83.058" y="85.09" size="1.778" layer="96" rot="R270"/>
+=======
+<instance part="R6" gate="G$1" x="-45.72" y="88.9" smashed="yes" rot="R270">
+<attribute name="NAME" x="-44.2214" y="92.71" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="-49.022" y="92.71" size="1.778" layer="96" rot="R270"/>
+>>>>>>> Stashed changes
 </instance>
 <instance part="R5" gate="G$1" x="58.42" y="68.58" smashed="yes" rot="R270">
 <attribute name="NAME" x="59.9186" y="72.39" size="1.778" layer="95" rot="R270"/>
@@ -14021,9 +14027,15 @@ Source:
 <junction x="55.88" y="60.96"/>
 </segment>
 <segment>
+<<<<<<< Updated upstream
 <pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="86.36" y1="86.36" x2="86.36" y2="88.9" width="0.1524" layer="91"/>
 <label x="86.36" y="88.9" size="1.778" layer="95"/>
+=======
+<pinref part="R6" gate="G$1" pin="1"/>
+<wire x1="-45.72" y1="93.98" x2="-45.72" y2="96.52" width="0.1524" layer="91"/>
+<label x="-45.72" y="96.52" size="1.778" layer="95"/>
+>>>>>>> Stashed changes
 </segment>
 <segment>
 <pinref part="Q2" gate="G$1" pin="B"/>
@@ -14469,7 +14481,12 @@ Source:
 <wire x1="73.66" y1="53.34" x2="71.12" y2="53.34" width="0.1524" layer="91"/>
 <label x="68.58" y="53.34" size="1.778" layer="95"/>
 <pinref part="C10" gate="G$1" pin="1"/>
+<<<<<<< Updated upstream
 <junction x="73.66" y="53.34"/>
+=======
+<junction x="-58.42" y="60.96"/>
+<label x="-66.04" y="60.96" size="1.778" layer="95"/>
+>>>>>>> Stashed changes
 </segment>
 <segment>
 <pinref part="U1" gate="A" pin="C5"/>
@@ -15130,8 +15147,13 @@ Source:
 <net name="N$2" class="0">
 <segment>
 <pinref part="D2" gate="G$1" pin="A"/>
+<<<<<<< Updated upstream
 <pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="81.28" y1="76.2" x2="86.36" y2="76.2" width="0.1524" layer="91"/>
+=======
+<pinref part="R6" gate="G$1" pin="2"/>
+<wire x1="-50.8" y1="83.82" x2="-45.72" y2="83.82" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="N$3" class="0">

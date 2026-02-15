@@ -13689,9 +13689,9 @@ Source:
 <attribute name="NAME" x="56.896" y="56.515" size="1.778" layer="95"/>
 <attribute name="VALUE" x="56.896" y="51.689" size="1.778" layer="96"/>
 </instance>
-<instance part="C11" gate="G$1" x="50.8" y="40.64" smashed="yes">
-<attribute name="NAME" x="51.816" y="41.275" size="1.778" layer="95"/>
-<attribute name="VALUE" x="51.816" y="36.449" size="1.778" layer="96"/>
+<instance part="C11" gate="G$1" x="71.12" y="40.64" smashed="yes">
+<attribute name="NAME" x="72.136" y="41.275" size="1.778" layer="95"/>
+<attribute name="VALUE" x="72.136" y="36.449" size="1.778" layer="96"/>
 </instance>
 <instance part="C10" gate="G$1" x="-58.42" y="58.42" smashed="yes">
 <attribute name="NAME" x="-57.404" y="59.055" size="1.778" layer="95"/>
@@ -14500,8 +14500,13 @@ Source:
 <instance part="F2" gate="G$1" x="-254" y="91.44" smashed="yes" rot="R180">
 <attribute name="NAME" x="-255.27" y="87.63" size="1.778" layer="95" rot="R180" align="center-left"/>
 </instance>
+<<<<<<< Updated upstream
 <instance part="F3" gate="G$1" x="-231.14" y="88.9" smashed="yes" rot="R180">
 <attribute name="NAME" x="-232.41" y="85.09" size="1.778" layer="95" rot="R180" align="center-left"/>
+=======
+<instance part="F10" gate="G$1" x="-228.6" y="88.9" smashed="yes" rot="R180">
+<attribute name="NAME" x="-229.87" y="85.09" size="1.778" layer="95" rot="R180" align="center-left"/>
+>>>>>>> Stashed changes
 </instance>
 <instance part="F4" gate="G$1" x="-248.92" y="86.36" smashed="yes" rot="R180">
 <attribute name="NAME" x="-250.19" y="82.55" size="1.778" layer="95" rot="R180" align="center-left"/>
@@ -14512,8 +14517,13 @@ Source:
 <instance part="F6" gate="G$1" x="-254" y="81.28" smashed="yes" rot="R180">
 <attribute name="NAME" x="-255.27" y="77.47" size="1.778" layer="95" rot="R180" align="center-left"/>
 </instance>
+<<<<<<< Updated upstream
 <instance part="F7" gate="G$1" x="-231.14" y="78.74" smashed="yes" rot="R180">
 <attribute name="NAME" x="-232.41" y="74.93" size="1.778" layer="95" rot="R180" align="center-left"/>
+=======
+<instance part="F4" gate="G$1" x="-228.6" y="78.74" smashed="yes" rot="R180">
+<attribute name="NAME" x="-229.87" y="74.93" size="1.778" layer="95" rot="R180" align="center-left"/>
+>>>>>>> Stashed changes
 </instance>
 <instance part="F8" gate="G$1" x="-248.92" y="76.2" smashed="yes" rot="R180">
 <attribute name="NAME" x="-250.19" y="72.39" size="1.778" layer="95" rot="R180" align="center-left"/>
@@ -15012,15 +15022,14 @@ Source:
 <wire x1="60.96" y1="45.72" x2="55.88" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="C4K" gate="G$1" pin="1"/>
 <junction x="60.96" y="45.72"/>
-<wire x1="55.88" y1="45.72" x2="50.8" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="50.8" y1="45.72" x2="40.64" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="45.72" x2="40.64" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="50.8" x2="55.88" y2="45.72" width="0.1524" layer="91"/>
 <junction x="55.88" y="45.72"/>
 <label x="43.18" y="45.72" size="1.778" layer="95"/>
 <pinref part="C9" gate="G$1" pin="2"/>
 <pinref part="C11" gate="G$1" pin="1"/>
-<wire x1="50.8" y1="43.18" x2="50.8" y2="45.72" width="0.1524" layer="91"/>
-<junction x="50.8" y="45.72"/>
+<wire x1="71.12" y1="43.18" x2="71.12" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="45.72" x2="60.96" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="T4" gate="G$1" pin="2"/>
@@ -15073,9 +15082,15 @@ Source:
 <label x="-106.68" y="256.54" size="1.778" layer="95"/>
 </segment>
 <segment>
+<<<<<<< Updated upstream
 <pinref part="F7" gate="G$1" pin="1"/>
 <pinref part="E2" gate="G$1" pin="1"/>
 <wire x1="-226.06" y1="78.74" x2="-231.14" y2="78.74" width="0.1524" layer="91"/>
+=======
+<pinref part="F4" gate="G$1" pin="1"/>
+<pinref part="E5" gate="G$1" pin="1"/>
+<wire x1="-226.06" y1="78.74" x2="-228.6" y2="78.74" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 <label x="-228.6" y="76.2" size="1.778" layer="95"/>
 </segment>
 <segment>
@@ -15272,12 +15287,16 @@ Source:
 <segment>
 <pinref part="C3K" gate="G$1" pin="2"/>
 <pinref part="U1" gate="A" pin="C2"/>
+<<<<<<< Updated upstream
 <wire x1="60.96" y1="30.48" x2="50.8" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="30.48" x2="40.64" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="35.56" x2="50.8" y2="30.48" width="0.1524" layer="91"/>
 <junction x="50.8" y="30.48"/>
+=======
+<wire x1="60.96" y1="30.48" x2="53.34" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="30.48" x2="40.64" y2="30.48" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 <label x="40.64" y="30.48" size="1.778" layer="95"/>
-<pinref part="C11" gate="G$1" pin="2"/>
 <pinref part="U1" gate="A" pin="V-_2"/>
 <wire x1="-5.08" y1="35.56" x2="-10.16" y2="35.56" width="0.1524" layer="91"/>
 <label x="-10.16" y="35.56" size="1.778" layer="95"/>
@@ -15293,11 +15312,20 @@ Source:
 <wire x1="40.64" y1="30.48" x2="10.16" y2="30.48" width="0.1524" layer="91"/>
 <junction x="40.64" y="30.48"/>
 <junction x="10.16" y="30.48"/>
+<<<<<<< Updated upstream
 </segment>
 <segment>
 <label x="-17.78" y="88.9" size="1.778" layer="95"/>
 <pinref part="C14" gate="G$1" pin="1"/>
 <wire x1="-17.78" y1="83.82" x2="-17.78" y2="91.44" width="0.1524" layer="91"/>
+=======
+<pinref part="C12" gate="G$1" pin="2"/>
+<junction x="53.34" y="30.48"/>
+<pinref part="C11" gate="G$1" pin="2"/>
+<wire x1="71.12" y1="35.56" x2="71.12" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="30.48" x2="60.96" y2="30.48" width="0.1524" layer="91"/>
+<junction x="60.96" y="30.48"/>
+>>>>>>> Stashed changes
 </segment>
 <segment>
 <pinref part="D3E" gate="G$1" pin="P$1"/>
@@ -17097,10 +17125,17 @@ Source:
 <label x="-264.16" y="307.34" size="1.778" layer="95"/>
 </segment>
 <segment>
+<<<<<<< Updated upstream
 <pinref part="F3" gate="G$1" pin="1"/>
 <pinref part="E4" gate="G$1" pin="1"/>
 <wire x1="-226.06" y1="88.9" x2="-231.14" y2="88.9" width="0.1524" layer="91"/>
 <label x="-231.14" y="88.9" size="1.778" layer="95"/>
+=======
+<pinref part="F10" gate="G$1" pin="1"/>
+<pinref part="E12" gate="G$1" pin="1"/>
+<wire x1="-226.06" y1="88.9" x2="-228.6" y2="88.9" width="0.1524" layer="91"/>
+<label x="-228.6" y="88.9" size="1.778" layer="95"/>
+>>>>>>> Stashed changes
 </segment>
 <segment>
 <pinref part="R11J" gate="G$1" pin="1"/>
@@ -17948,7 +17983,12 @@ Source:
 <net name="N$18" class="0">
 <segment>
 <pinref part="CN1" gate="G$1" pin="3"/>
+<<<<<<< Updated upstream
 <pinref part="F3" gate="G$1" pin="2"/>
+=======
+<pinref part="F10" gate="G$1" pin="2"/>
+<wire x1="-246.38" y1="88.9" x2="-248.92" y2="88.9" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="N$22" class="0">
@@ -17974,7 +18014,12 @@ Source:
 <net name="N$26" class="0">
 <segment>
 <pinref part="CN1" gate="G$1" pin="7"/>
+<<<<<<< Updated upstream
 <pinref part="F7" gate="G$1" pin="2"/>
+=======
+<pinref part="F4" gate="G$1" pin="2"/>
+<wire x1="-246.38" y1="78.74" x2="-248.92" y2="78.74" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="N$28" class="0">
@@ -18433,6 +18478,72 @@ Source:
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,-5.08,35.56,U1,V-_2,V-,,,"/>
+<approved hash="104,1,-5.08,27.94,U1,C1,V-,,,"/>
+<approved hash="104,1,40.64,30.48,U1,C2,V-,,,"/>
+<approved hash="104,1,-5.08,-40.64,U2,V-_2,C6,,,"/>
+<approved hash="104,1,-5.08,-48.26,U2,C1,C6,,,"/>
+<approved hash="104,1,40.64,-45.72,U2,C2,C6,,,"/>
+<approved hash="104,1,40.64,-38.1,U2,C3,C9,,,"/>
+<approved hash="104,1,40.64,-30.48,U2,C4,C10,,,"/>
+<approved hash="104,1,40.64,-22.86,U2,C5,C11,,,"/>
+<approved hash="104,1,40.64,-15.24,U2,C6,C12,,,"/>
+<approved hash="104,1,40.64,-12.7,U2,BOOST+,N$135,,,"/>
+<approved hash="104,1,40.64,-10.16,U2,BOOST-,N$152,,,"/>
+<approved hash="104,1,40.64,7.62,U2,VREG,VREG2,,,"/>
+<approved hash="104,1,40.64,10.16,U2,V-,C6,,,"/>
+<approved hash="206,1,40.64,0,C12,,,,,"/>
+<approved hash="206,1,40.64,-2.54,C12,,,,,"/>
+<approved hash="106,1,-5.08,30.48,G1P,,,,,"/>
+<approved hash="106,1,-5.08,60.96,G1S,,,,,"/>
+<approved hash="106,1,40.64,27.94,G2P,,,,,"/>
+<approved hash="106,1,-5.08,66.04,G2S,,,,,"/>
+<approved hash="106,1,-5.08,-45.72,G7P,,,,,"/>
+<approved hash="106,1,-5.08,-15.24,G7S,,,,,"/>
+<approved hash="106,1,40.64,-48.26,G8P,,,,,"/>
+<approved hash="106,1,-5.08,-10.16,G8S,,,,,"/>
+<approved hash="209,1,-5.08,33.02,I1P,,,,,"/>
+<approved hash="106,1,-5.08,33.02,I1P,,,,,"/>
+<approved hash="209,1,-5.08,58.42,I1S,,,,,"/>
+<approved hash="106,1,-5.08,58.42,I1S,,,,,"/>
+<approved hash="209,1,40.64,25.4,I2P,,,,,"/>
+<approved hash="106,1,40.64,25.4,I2P,,,,,"/>
+<approved hash="209,1,-5.08,63.5,I2S,,,,,"/>
+<approved hash="106,1,-5.08,63.5,I2S,,,,,"/>
+<approved hash="209,1,-5.08,-43.18,I7P,,,,,"/>
+<approved hash="106,1,-5.08,-43.18,I7P,,,,,"/>
+<approved hash="209,1,-5.08,-17.78,I7S,,,,,"/>
+<approved hash="106,1,-5.08,-17.78,I7S,,,,,"/>
+<approved hash="209,1,40.64,-50.8,I8P,,,,,"/>
+<approved hash="106,1,40.64,-50.8,I8P,,,,,"/>
+<approved hash="209,1,-5.08,-12.7,I8S,,,,,"/>
+<approved hash="106,1,-5.08,-12.7,I8S,,,,,"/>
+<approved hash="106,1,22.86,408.94,N$151,,,,,"/>
+<approved hash="111,1,55.88,53.34,C5,,,,,"/>
+<approved hash="112,1,-247.65,78.74,,,,,,"/>
+<approved hash="111,1,66.04,-30.48,C10,,,,,"/>
+<approved hash="111,1,83.82,17.78,WDTC,,,,,"/>
+<approved hash="113,1,-92.6846,149.86,D3C,,,,,"/>
+<approved hash="113,1,-92.6846,213.36,D4C,,,,,"/>
+<approved hash="113,1,-92.6846,274.32,D5C,,,,,"/>
+<approved hash="113,1,-92.6846,335.28,D6C,,,,,"/>
+<approved hash="113,1,-250.165,335.28,D9C,,,,,"/>
+<approved hash="113,1,-250.165,274.32,D10C,,,,,"/>
+<approved hash="113,1,-250.165,213.36,D11C,,,,,"/>
+<approved hash="113,1,-252.705,149.86,D12C,,,,,"/>
+<approved hash="113,1,-92.6846,396.24,D1C8,,,,,"/>
+<approved hash="113,1,-248.683,85.6336,CN1,,,,,"/>
+<approved hash="113,1,-167.318,82.55,D3D,,,,,"/>
+<approved hash="113,1,-159.698,82.55,D4D,,,,,"/>
+<approved hash="113,1,-152.078,82.55,D5D,,,,,"/>
+<approved hash="113,1,-144.458,82.55,D6D,,,,,"/>
+<approved hash="113,1,-136.838,82.55,D9D,,,,,"/>
+<approved hash="113,1,-129.218,82.55,D10D,,,,,"/>
+<approved hash="113,1,-121.598,82.55,D11D,,,,,"/>
+<approved hash="113,1,-113.978,82.55,D12D,,,,,"/>
+<approved hash="113,1,-172.957,27.2136,CN2,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
