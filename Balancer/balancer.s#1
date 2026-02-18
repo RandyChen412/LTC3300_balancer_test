@@ -1343,12 +1343,6 @@
 <smd name="6" x="2.921" y="-0.635" dx="1.016" dy="0.4572" layer="1"/>
 <smd name="7" x="2.921" y="0.635" dx="1.016" dy="0.4572" layer="1"/>
 <smd name="8" x="2.921" y="1.905" dx="1.016" dy="0.4572" layer="1"/>
-<polygon width="0.0254" layer="1">
-<vertex x="2.6162" y="1.9939"/>
-<vertex x="-1.4224" y="1.9939"/>
-<vertex x="-1.4224" y="-1.9939"/>
-<vertex x="2.6162" y="-1.9939"/>
-</polygon>
 <polygon width="0.0254" layer="29">
 <vertex x="2.6162" y="1.9939"/>
 <vertex x="-1.4224" y="1.9939"/>
@@ -1449,8 +1443,9 @@
 <wire x1="0.3048" y1="2.6416" x2="-2.9972" y2="2.6416" width="0.1524" layer="51"/>
 <wire x1="-2.9972" y1="2.6416" x2="-2.9972" y2="-2.6416" width="0.1524" layer="51"/>
 <wire x1="0.3048" y1="2.6416" x2="-0.3048" y2="2.6162" width="0.1524" layer="51" curve="-180"/>
-<text x="-3.2766" y="-0.635" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Name</text>
-<text x="-1.7272" y="-0.635" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Value</text>
+<text x="-3.2766" y="3.175" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Name</text>
+<text x="-2.9972" y="-4.445" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Value</text>
+<smd name="9" x="0.69" y="0" dx="3.81" dy="3.91" layer="1"/>
 </package>
 <package name="POWERPAK_SO-8_SINGLE_VIS-M">
 <smd name="1" x="-2.9718" y="1.905" dx="1.1176" dy="0.4572" layer="1"/>
@@ -2701,7 +2696,7 @@
 <connect gate="A" pin="5" pad="5"/>
 <connect gate="A" pin="6" pad="6"/>
 <connect gate="A" pin="7" pad="7"/>
-<connect gate="A" pin="8" pad="8"/>
+<connect gate="A" pin="8" pad="8 9"/>
 </connects>
 <technologies>
 <technology name="">
