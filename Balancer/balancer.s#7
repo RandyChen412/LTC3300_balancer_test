@@ -13355,7 +13355,6 @@ Source:
 <part name="D1" library="DO-214AA" deviceset="WE-TVSP_DO-214AA_600W_UNI" device=""/>
 <part name="D2" library="DO-214AA" deviceset="WE-TVSP_DO-214AA_600W_UNI" device=""/>
 <part name="R6" library="Ilya_Teach" deviceset="RES" device="" value="6.81"/>
-<part name="R5" library="Ilya_Teach" deviceset="RES" device="" value="0 ohm"/>
 <part name="D10" library="CMOD6263" deviceset="1N4448HWT-7" device=""/>
 <part name="Q4" library="MMBT3906LT1G" deviceset="MMBT3906LT1G" device=""/>
 <part name="D9" library="adafruit" deviceset="DIODE" device="SOD-323F" value="PDZ5.6B"/>
@@ -13747,10 +13746,6 @@ Source:
 <instance part="R6" gate="G$1" x="-45.72" y="88.9" smashed="yes" rot="R270">
 <attribute name="NAME" x="-44.2214" y="92.71" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="-49.022" y="92.71" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="R5" gate="G$1" x="-73.66" y="76.2" smashed="yes" rot="R270">
-<attribute name="NAME" x="-72.1614" y="80.01" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="-76.962" y="80.01" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="D10" gate="G$1" x="81.28" y="147.32" smashed="yes" rot="R270">
 <attribute name="NAME" x="83.82" y="152.4" size="1.778" layer="95" rot="R270"/>
@@ -15110,9 +15105,6 @@ Source:
 <pinref part="D1" gate="G$1" pin="C"/>
 <wire x1="-58.42" y1="73.66" x2="-58.42" y2="76.2" width="0.1524" layer="91"/>
 <junction x="-58.42" y="73.66"/>
-<pinref part="R5" gate="G$1" pin="2"/>
-<wire x1="-73.66" y1="71.12" x2="-58.42" y2="71.12" width="0.1524" layer="91"/>
-<junction x="-58.42" y="71.12"/>
 </segment>
 </net>
 <net name="BOOST-" class="0">
@@ -15997,10 +15989,6 @@ Source:
 <wire x1="-60.96" y1="83.82" x2="-60.96" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="-60.96" y1="78.74" x2="-66.04" y2="78.74" width="0.1524" layer="91"/>
 <junction x="-66.04" y="78.74"/>
-<pinref part="R5" gate="G$1" pin="1"/>
-<wire x1="-73.66" y1="81.28" x2="-68.58" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="-68.58" y1="81.28" x2="-68.58" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="-68.58" y1="78.74" x2="-66.04" y2="78.74" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$2" class="0">
