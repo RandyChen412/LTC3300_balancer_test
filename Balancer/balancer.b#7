@@ -3273,18 +3273,18 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="63.5" y="156.21" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="D4E" library="balancer" package="POWERDI5" value="SBR10U200P5" x="119.38" y="144.78" smashed="yes" rot="MR90"/>
-<element name="D5" library="RS07J-GS18" package="SODFL3718X108N" value="RS07J-GS18" x="2.54" y="224.79" smashed="yes" rot="R90">
-<attribute name="AVAILABILITY" value="In Stock" x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=eda" x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESCRIPTION" value="                                                      Diode Standard 600 V 500mA Surface Mount DO-219AB (SMF)                                              " x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MF" value="Vishay Semiconductor" x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MP" value="RS07J-GS18" x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="3.479240625" y="219.84885" size="0.508" layer="25" rot="R90"/>
-<attribute name="PACKAGE" value="DO-219AB Vishay Semiconductor Diodes Division" x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PRICE" value="None" x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=383103&amp;manufacturer=Vishay Semiconductor&amp;part_name=RS07J-GS18&amp;search_term=rs07j" x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=snap" x="182.88" y="306.07" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="5.1476" y="222.2827" size="1.2737" layer="27" rot="R90"/>
+<element name="D5" library="RS07J-GS18" package="SODFL3718X108N" value="RS07J-GS18" x="2.54" y="231.14" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="In Stock" x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=eda" x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value="                                                      Diode Standard 600 V 500mA Surface Mount DO-219AB (SMF)                                              " x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Vishay Semiconductor" x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="RS07J-GS18" x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="3.479240625" y="226.19885" size="0.508" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="DO-219AB Vishay Semiconductor Diodes Division" x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=383103&amp;manufacturer=Vishay Semiconductor&amp;part_name=RS07J-GS18&amp;search_term=rs07j" x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=snap" x="182.88" y="312.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="5.1476" y="228.6327" size="1.2737" layer="27" rot="R90"/>
 </element>
 <element name="D5A" library="balancer" package="SDO_POWERDI123_DIO" value="DFLS260Q-7" x="49.53" y="191.77" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2026 Ultra Librarian. All rights reserved." x="138.43" y="95.25" size="1.778" layer="27" display="off"/>
@@ -3310,18 +3310,18 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="50.8" y="184.15" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="D5E" library="balancer" package="POWERDI5" value="SBR10U200P5" x="119.38" y="161.29" smashed="yes" rot="MR90"/>
-<element name="D6" library="RS07J-GS18" package="SODFL3718X108N" value="RS07J-GS18" x="5.08" y="224.79" smashed="yes" rot="R90">
-<attribute name="AVAILABILITY" value="In Stock" x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=eda" x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESCRIPTION" value="                                                      Diode Standard 600 V 500mA Surface Mount DO-219AB (SMF)                                              " x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MF" value="Vishay Semiconductor" x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MP" value="RS07J-GS18" x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="6.019240625" y="219.84885" size="0.508" layer="25" rot="R90"/>
-<attribute name="PACKAGE" value="DO-219AB Vishay Semiconductor Diodes Division" x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PRICE" value="None" x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=383103&amp;manufacturer=Vishay Semiconductor&amp;part_name=RS07J-GS18&amp;search_term=rs07j" x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=snap" x="185.42" y="318.77" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="7.6876" y="222.2827" size="1.2737" layer="27" rot="R90"/>
+<element name="D6" library="RS07J-GS18" package="SODFL3718X108N" value="RS07J-GS18" x="5.08" y="231.14" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="In Stock" x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=eda" x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value="                                                      Diode Standard 600 V 500mA Surface Mount DO-219AB (SMF)                                              " x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Vishay Semiconductor" x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="RS07J-GS18" x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="6.019240625" y="226.19885" size="0.508" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="DO-219AB Vishay Semiconductor Diodes Division" x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=383103&amp;manufacturer=Vishay Semiconductor&amp;part_name=RS07J-GS18&amp;search_term=rs07j" x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=snap" x="185.42" y="325.12" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="7.6876" y="228.6327" size="1.2737" layer="27" rot="R90"/>
 </element>
 <element name="D6A" library="balancer" package="SDO_POWERDI123_DIO" value="DFLS260Q-7" x="21.59" y="190.5" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2026 Ultra Librarian. All rights reserved." x="140.97" y="93.98" size="1.778" layer="27" display="off"/>
@@ -3347,18 +3347,18 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="24.13" y="184.15" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="D6E" library="balancer" package="POWERDI5" value="SBR10U200P5" x="119.38" y="180.34" smashed="yes" rot="MR90"/>
-<element name="D7" library="RS07J-GS18" package="SODFL3718X108N" value="RS07J-GS18" x="7.62" y="224.79" smashed="yes" rot="R90">
-<attribute name="AVAILABILITY" value="In Stock" x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=eda" x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESCRIPTION" value="                                                      Diode Standard 600 V 500mA Surface Mount DO-219AB (SMF)                                              " x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MF" value="Vishay Semiconductor" x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MP" value="RS07J-GS18" x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="8.559240625" y="219.84885" size="0.508" layer="25" rot="R90"/>
-<attribute name="PACKAGE" value="DO-219AB Vishay Semiconductor Diodes Division" x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PRICE" value="None" x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=383103&amp;manufacturer=Vishay Semiconductor&amp;part_name=RS07J-GS18&amp;search_term=rs07j" x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=snap" x="187.96" y="331.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="10.2276" y="222.2827" size="1.2737" layer="27" rot="R90"/>
+<element name="D7" library="RS07J-GS18" package="SODFL3718X108N" value="RS07J-GS18" x="7.62" y="231.14" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="In Stock" x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=eda" x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value="                                                      Diode Standard 600 V 500mA Surface Mount DO-219AB (SMF)                                              " x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Vishay Semiconductor" x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="RS07J-GS18" x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="8.559240625" y="226.19885" size="0.508" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="DO-219AB Vishay Semiconductor Diodes Division" x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=383103&amp;manufacturer=Vishay Semiconductor&amp;part_name=RS07J-GS18&amp;search_term=rs07j" x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/RS07J-GS18/Vishay/view-part/?ref=snap" x="187.96" y="337.82" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="10.2276" y="228.6327" size="1.2737" layer="27" rot="R90"/>
 </element>
 <element name="D8" library="adafruit" package="SOD-123" value="CMHZ4689" x="25.4" y="228.6" smashed="yes" rot="MR0">
 <attribute name="NAME" x="26.5" y="229.6" size="0.4064" layer="26" rot="MR0"/>
@@ -4702,17 +4702,17 @@ design rules under a new name.</description>
 <signal name="SDOI">
 <contactref element="U1" pad="43"/>
 <contactref element="D7" pad="C"/>
-<wire x1="25.15" y1="159.1183" x2="7.62" y2="223.19" width="0" layer="19" extent="1-1"/>
+<wire x1="25.15" y1="159.1183" x2="7.62" y2="229.54" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="SCKO">
 <contactref element="U1" pad="44"/>
 <contactref element="D6" pad="C"/>
-<wire x1="24.65" y1="159.1183" x2="5.08" y2="223.19" width="0" layer="19" extent="1-1"/>
+<wire x1="24.65" y1="159.1183" x2="5.08" y2="229.54" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="CSBO">
 <contactref element="U1" pad="45"/>
 <contactref element="D5" pad="C"/>
-<wire x1="24.15" y1="159.1183" x2="2.54" y2="223.19" width="0" layer="19" extent="1-1"/>
+<wire x1="24.15" y1="159.1183" x2="2.54" y2="229.54" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VREG">
 <contactref element="U1" pad="48"/>
@@ -7181,7 +7181,7 @@ design rules under a new name.</description>
 <via x="24.511" y="234.95" extent="1-16" drill="0.35"/>
 <wire x1="26.69" y1="238.3917" x2="26.69" y2="237.129" width="0.3048" layer="1"/>
 <wire x1="26.69" y1="237.129" x2="24.511" y2="234.95" width="0.3048" layer="1"/>
-<wire x1="24.511" y1="234.95" x2="2.54" y2="226.39" width="0" layer="19" extent="1-1"/>
+<wire x1="24.511" y1="234.95" x2="2.54" y2="232.74" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$82">
 <contactref element="U2" pad="17"/>
@@ -7189,7 +7189,7 @@ design rules under a new name.</description>
 <via x="23.241" y="232.41" extent="1-16" drill="0.35"/>
 <wire x1="27.19" y1="238.3917" x2="27.19" y2="236.359" width="0.3048" layer="1"/>
 <wire x1="27.19" y1="236.359" x2="23.241" y2="232.41" width="0.3048" layer="1"/>
-<wire x1="23.241" y1="232.41" x2="5.08" y2="226.39" width="0" layer="19" extent="1-1"/>
+<wire x1="23.241" y1="232.41" x2="5.08" y2="232.74" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$85">
 <contactref element="U2" pad="18"/>
@@ -7198,7 +7198,7 @@ design rules under a new name.</description>
 <wire x1="27.69" y1="238.3917" x2="27.69" y2="235.462" width="0.3048" layer="1"/>
 <wire x1="26.162" y1="233.934" x2="26.162" y2="232.537" width="0.3048" layer="1"/>
 <wire x1="27.69" y1="235.462" x2="26.162" y2="233.934" width="0.3048" layer="1"/>
-<wire x1="26.162" y1="232.537" x2="7.62" y2="226.39" width="0" layer="19" extent="1-1"/>
+<wire x1="26.162" y1="232.537" x2="7.62" y2="232.74" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="WDTC">
 <contactref element="U2" pad="20"/>
@@ -7458,18 +7458,6 @@ design rules under a new name.</description>
 <vertex x="12.7" y="281.94"/>
 <vertex x="11.43" y="280.67"/>
 </polygon>
-</signal>
-<signal name="N$66">
-<via x="4.572" y="239.395" extent="1-16" drill="0.35"/>
-</signal>
-<signal name="N$69">
-<via x="1.778" y="237.744" extent="1-16" drill="0.35"/>
-</signal>
-<signal name="N$71">
-<via x="2.54" y="235.712" extent="1-16" drill="0.35"/>
-</signal>
-<signal name="N$76">
-<via x="4.064" y="233.68" extent="1-16" drill="0.35"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
