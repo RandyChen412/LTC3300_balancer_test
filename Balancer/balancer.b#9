@@ -3515,18 +3515,18 @@ design rules under a new name.</description>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=snap" x="226.06" y="-96.52" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="VALUE" x="114.1918" y="84.3108" size="1.27" layer="28" rot="MR270" align="center"/>
 </element>
-<element name="F3" library="01530008Z" package="01530008" value="01530008Z" x="115.57" y="137.16" smashed="yes" rot="MR90">
-<attribute name="AVAILABILITY" value="In Stock" x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=eda" x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="DESCRIPTION" value="                                                      Fuse Holder 15 A 32V 1 Circuit Blade Through Hole                                              " x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MF" value="Littelfuse Inc." x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MP" value="01530008Z" x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="NAME" x="115.6782" y="136.6692" size="1.27" layer="26" rot="MR90" align="center"/>
-<attribute name="PACKAGE" value="None" x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="PRICE" value="None" x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=433762&amp;manufacturer=Littelfuse Inc.&amp;part_name=01530008Z&amp;search_term=01530008z" x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=snap" x="3.81" y="215.9" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="VALUE" x="115.6782" y="136.6692" size="1.27" layer="28" rot="MR90" align="center"/>
+<element name="F3" library="01530008Z" package="01530008" value="01530008Z" x="114.3" y="152.4" smashed="yes" rot="MR90">
+<attribute name="AVAILABILITY" value="In Stock" x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=eda" x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="DESCRIPTION" value="                                                      Fuse Holder 15 A 32V 1 Circuit Blade Through Hole                                              " x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MF" value="Littelfuse Inc." x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MP" value="01530008Z" x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="NAME" x="114.4082" y="151.9092" size="1.27" layer="26" rot="MR90" align="center"/>
+<attribute name="PACKAGE" value="None" x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="PRICE" value="None" x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=433762&amp;manufacturer=Littelfuse Inc.&amp;part_name=01530008Z&amp;search_term=01530008z" x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=snap" x="2.54" y="231.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="VALUE" x="114.4082" y="151.9092" size="1.27" layer="28" rot="MR90" align="center"/>
 </element>
 <element name="F4" library="01530008Z" package="01530008" value="01530008Z" x="114.3" y="173.99" smashed="yes" rot="MR270">
 <attribute name="AVAILABILITY" value="In Stock" x="226.06" y="85.09" size="1.778" layer="28" rot="MR270" display="off"/>
@@ -3554,18 +3554,18 @@ design rules under a new name.</description>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=snap" x="226.06" y="93.98" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="VALUE" x="114.1918" y="193.5308" size="1.27" layer="28" rot="MR270" align="center"/>
 </element>
-<element name="F6" library="01530008Z" package="01530008" value="01530008Z" x="114.3" y="209.55" smashed="yes" rot="MR270">
-<attribute name="AVAILABILITY" value="In Stock" x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=eda" x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="DESCRIPTION" value="                                                      Fuse Holder 15 A 32V 1 Circuit Blade Through Hole                                              " x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="MF" value="Littelfuse Inc." x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="MP" value="01530008Z" x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="NAME" x="114.1918" y="210.0408" size="1.27" layer="26" rot="MR270" align="center"/>
-<attribute name="PACKAGE" value="None" x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="PRICE" value="None" x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=433762&amp;manufacturer=Littelfuse Inc.&amp;part_name=01530008Z&amp;search_term=01530008z" x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=snap" x="226.06" y="100.33" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="VALUE" x="114.1918" y="210.0408" size="1.27" layer="28" rot="MR270" align="center"/>
+<element name="F6" library="01530008Z" package="01530008" value="01530008Z" x="114.3" y="220.98" smashed="yes" rot="MR270">
+<attribute name="AVAILABILITY" value="In Stock" x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=eda" x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="DESCRIPTION" value="                                                      Fuse Holder 15 A 32V 1 Circuit Blade Through Hole                                              " x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MF" value="Littelfuse Inc." x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MP" value="01530008Z" x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="NAME" x="114.1918" y="221.4708" size="1.27" layer="26" rot="MR270" align="center"/>
+<attribute name="PACKAGE" value="None" x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="PRICE" value="None" x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=433762&amp;manufacturer=Littelfuse Inc.&amp;part_name=01530008Z&amp;search_term=01530008z" x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/01530008Z/Littelfuse/view-part/?ref=snap" x="226.06" y="111.76" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="VALUE" x="114.1918" y="221.4708" size="1.27" layer="28" rot="MR270" align="center"/>
 </element>
 <element name="F9" library="01530008Z" package="01530008" value="01530008Z" x="114.3" y="266.7" smashed="yes" rot="MR90">
 <attribute name="AVAILABILITY" value="In Stock" x="2.54" y="386.08" size="1.778" layer="28" rot="MR90" display="off"/>
@@ -4685,9 +4685,9 @@ design rules under a new name.</description>
 <wire x1="44.32" y1="246.38" x2="42.418" y2="234.05" width="0" layer="19" extent="1-16"/>
 <wire x1="60.071" y1="220.284" x2="64.008" y2="234.442" width="0" layer="19" extent="1-1"/>
 <wire x1="95.377" y1="232.512" x2="67.691" y2="234.086" width="0" layer="19" extent="1-1"/>
-<wire x1="110.49" y1="207.8228" x2="99.695" y2="228.727" width="0" layer="19" extent="1-1"/>
+<wire x1="110.49" y1="219.2528" x2="99.695" y2="228.727" width="0" layer="19" extent="1-1"/>
 <wire x1="22.99" y1="171.45" x2="28.956" y2="173.112" width="0" layer="19" extent="1-16"/>
-<wire x1="118.46" y1="218.118" x2="110.49" y2="207.8228" width="0" layer="19" extent="16-16"/>
+<wire x1="118.46" y1="218.118" x2="110.49" y2="219.2528" width="0" layer="19" extent="16-16"/>
 <wire x1="120.3" y1="218.118" x2="118.46" y2="218.118" width="0" layer="19" extent="16-16"/>
 <wire x1="98.933" y1="262.89" x2="95.377" y2="232.512" width="0" layer="19" extent="1-1"/>
 <wire x1="119.38" y1="181.46" x2="99.06" y2="208.28" width="0" layer="19" extent="16-16"/>
@@ -4755,7 +4755,9 @@ design rules under a new name.</description>
 <wire x1="65.91" y1="172.72" x2="65.91" y2="168.91" width="0" layer="19" extent="1-1"/>
 <wire x1="62.545" y1="181.864" x2="65.91" y2="172.72" width="0" layer="19" extent="1-1"/>
 <wire x1="76.2" y1="182.88" x2="76.28" y2="169.47" width="0" layer="19" extent="1-1"/>
-<wire x1="48.108" y1="189.992" x2="62.545" y2="181.864" width="0" layer="19" extent="1-1"/>
+<wire x1="118.46" y1="158.428" x2="110.49" y2="172.2628" width="0" layer="19" extent="16-16"/>
+<wire x1="120.3" y1="158.428" x2="118.46" y2="158.428" width="0" layer="19" extent="16-16"/>
+<wire x1="119.38" y1="145.9" x2="118.46" y2="158.428" width="0" layer="19" extent="16-16"/>
 <wire x1="43.18" y1="162.69" x2="65.91" y2="168.91" width="0" layer="19" extent="1-16"/>
 <wire x1="40.894" y1="159.65" x2="43.18" y2="162.69" width="0" layer="19" extent="1-16"/>
 <wire x1="38.862" y1="159.65" x2="40.894" y2="159.65" width="0" layer="19" extent="1-1"/>
@@ -4763,10 +4765,6 @@ design rules under a new name.</description>
 <wire x1="40.894" y1="154.675" x2="43.18" y2="157.95" width="0" layer="19" extent="1-1"/>
 <wire x1="33.3883" y1="153.65" x2="40.894" y2="154.675" width="0" layer="19" extent="1-1"/>
 <wire x1="20.19" y1="171.45" x2="38.862" y2="159.65" width="0" layer="19" extent="1-16"/>
-<wire x1="110.49" y1="172.2628" x2="78.78" y2="169.47" width="0" layer="19" extent="1-1"/>
-<wire x1="118.46" y1="158.428" x2="110.49" y2="172.2628" width="0" layer="19" extent="16-16"/>
-<wire x1="120.3" y1="158.428" x2="118.46" y2="158.428" width="0" layer="19" extent="16-16"/>
-<wire x1="119.38" y1="145.9" x2="118.46" y2="158.428" width="0" layer="19" extent="16-16"/>
 <wire x1="109.54" y1="101.6" x2="119.38" y2="145.9" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="BOOST+">
@@ -5104,11 +5102,16 @@ design rules under a new name.</description>
 <contactref element="E4" pad="1"/>
 <contactref element="R4J" pad="1"/>
 <contactref element="R3K" pad="1"/>
-<wire x1="104.14" y1="152.4" x2="119.38" y2="128.12" width="0" layer="19" extent="16-16"/>
-<wire x1="111.76" y1="135.4328" x2="119.38" y2="128.12" width="0" layer="19" extent="16-16"/>
+<polygon width="0.1524" layer="2" thermals="no">
+<vertex x="57.15" y="166.37"/>
+<vertex x="111.76" y="166.37"/>
+<vertex x="111.76" y="129.54"/>
+<vertex x="41.91" y="129.54"/>
+<vertex x="41.91" y="151.13"/>
+</polygon>
 <wire x1="120.3" y1="141.918" x2="119.38" y2="128.12" width="0" layer="19" extent="16-16"/>
 <wire x1="118.46" y1="141.918" x2="120.3" y2="141.918" width="0" layer="19" extent="16-16"/>
-<wire x1="109.54" y1="99.06" x2="104.14" y2="152.4" width="0" layer="19" extent="1-1"/>
+<wire x1="110.49" y1="150.6728" x2="118.46" y2="141.918" width="0" layer="19" extent="16-16"/>
 <wire x1="78.78" y1="147.88" x2="104.14" y2="152.4" width="0" layer="19" extent="1-1"/>
 <wire x1="76.28" y1="147.88" x2="78.78" y2="147.88" width="0" layer="19" extent="1-1"/>
 <wire x1="72.39" y1="143.88" x2="76.28" y2="147.88" width="0" layer="19" extent="1-1"/>
@@ -5125,6 +5128,7 @@ design rules under a new name.</description>
 <wire x1="39.5" y1="147.32" x2="40.894" y2="151.373" width="0" layer="19" extent="1-16"/>
 <wire x1="33.3883" y1="152.15" x2="36.83" y2="156.475" width="0" layer="19" extent="1-1"/>
 <wire x1="34.16" y1="171.45" x2="36.83" y2="156.475" width="0" layer="19" extent="1-16"/>
+<wire x1="109.54" y1="99.06" x2="119.38" y2="128.12" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="G6P">
 <contactref element="U1" pad="38"/>
@@ -7520,7 +7524,7 @@ design rules under a new name.</description>
 <signal name="N$23">
 <contactref element="CN1" pad="5"/>
 <contactref element="F6" pad="2"/>
-<wire x1="118.11" y1="211.2772" x2="132.08" y2="205.74" width="0" layer="19" extent="1-1"/>
+<wire x1="118.11" y1="222.7072" x2="132.08" y2="205.74" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$25">
 <contactref element="CN1" pad="6"/>
@@ -7535,7 +7539,7 @@ design rules under a new name.</description>
 <signal name="N$28">
 <contactref element="CN1" pad="8"/>
 <contactref element="F3" pad="1"/>
-<wire x1="119.38" y1="138.8872" x2="132.08" y2="193.86" width="0" layer="19" extent="1-1"/>
+<wire x1="118.11" y1="154.1272" x2="132.08" y2="193.86" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$30">
 <contactref element="CN1" pad="9"/>
