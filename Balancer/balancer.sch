@@ -13535,7 +13535,7 @@ Source:
 <part name="F14" library="01530008Z" deviceset="01530008Z" device=""/>
 <part name="E8" library="Turret" deviceset="2501-2-00-80-00-00-07-0" device=""/>
 <part name="E15" library="Turret" deviceset="2501-2-00-80-00-00-07-0" device=""/>
-<part name="CN1" library="jst-vh" deviceset="B9P-VH" device=""/>
+<part name="BATT" library="jst-vh" deviceset="B9P-VH" device=""/>
 <part name="F12" library="01530008Z" deviceset="01530008Z" device=""/>
 <part name="F11" library="01530008Z" deviceset="01530008Z" device=""/>
 <part name="F10" library="01530008Z" deviceset="01530008Z" device=""/>
@@ -13592,8 +13592,8 @@ Source:
 <part name="C5" library="Ilya_Teach" deviceset="CAP" device="" value="1.0uF"/>
 <part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C1210" package3d_urn="urn:adsk.eagle:package:23619/2" value="4.7uF"/>
 <part name="R7" library="Ilya_Teach" deviceset="RES" device="" value="1M"/>
-<part name="TP1" library="Turret" deviceset="2501-2-00-80-00-00-07-0" device=""/>
-<part name="TP2" library="Turret" deviceset="2501-2-00-80-00-00-07-0" device=""/>
+<part name="WDTA" library="Turret" deviceset="2501-2-00-80-00-00-07-0" device=""/>
+<part name="WDTC" library="Turret" deviceset="2501-2-00-80-00-00-07-0" device=""/>
 <part name="Q2" library="BSS123W" deviceset="BSS123W" device=""/>
 <part name="R8" library="Ilya_Teach" deviceset="RES" device="" value="1.27M"/>
 <part name="D13" library="CMOD6263" deviceset="1N4448HWT-7" device=""/>
@@ -13604,8 +13604,8 @@ Source:
 <part name="R58" library="Ilya_Teach" deviceset="RES" device="" value="2k"/>
 <part name="R55" library="Ilya_Teach" deviceset="RES" device="" value="20"/>
 <part name="D11" library="adafruit" deviceset="DIODE" device="SOD-323F" value="PDZ5.6B"/>
-<part name="CN2" library="jst-vh" deviceset="B9P-VH" device=""/>
-<part name="JP1" library="Connector" library_urn="urn:adsk.eagle:library:16378166" deviceset="PINHD-1X4" device="" package3d_urn="urn:adsk.eagle:package:51802636/2"/>
+<part name="VOLT_TAPS" library="jst-vh" deviceset="B9P-VH" device=""/>
+<part name="COMM" library="Connector" library_urn="urn:adsk.eagle:library:16378166" deviceset="PINHD-1X4" device="" package3d_urn="urn:adsk.eagle:package:51802636/2"/>
 <part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="0"/>
 <part name="R12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="0"/>
 <part name="C12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C1210" package3d_urn="urn:adsk.eagle:package:23619/2" value="4.7uF"/>
@@ -14376,7 +14376,7 @@ Source:
 <instance part="E15" gate="G$1" x="-119.38" y="154.94" smashed="yes" rot="R270">
 <attribute name="NAME" x="-116.33153125" y="160.020790625" size="1.77828125" layer="95" rot="R270"/>
 </instance>
-<instance part="CN1" gate="G$1" x="-248.92" y="83.82" smashed="yes">
+<instance part="BATT" gate="G$1" x="-248.92" y="83.82" smashed="yes">
 <attribute name="NAME" x="-252.73" y="97.79" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-252.73" y="68.58" size="1.778" layer="96"/>
 </instance>
@@ -14575,10 +14575,10 @@ Source:
 <attribute name="NAME" x="72.1614" y="8.89" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="76.962" y="8.89" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="TP1" gate="G$1" x="91.44" y="106.68" smashed="yes">
+<instance part="WDTA" gate="G$1" x="91.44" y="106.68" smashed="yes">
 <attribute name="NAME" x="86.359209375" y="109.72846875" size="1.77828125" layer="95"/>
 </instance>
-<instance part="TP2" gate="G$1" x="40.64" y="17.78" smashed="yes" rot="R180">
+<instance part="WDTC" gate="G$1" x="40.64" y="17.78" smashed="yes" rot="R180">
 <attribute name="NAME" x="45.720790625" y="14.73153125" size="1.77828125" layer="95" rot="R180"/>
 </instance>
 <instance part="Q2" gate="G$1" x="101.6" y="22.86" smashed="yes" rot="MR0">
@@ -14618,11 +14618,11 @@ Source:
 <instance part="D11" gate="G$1" x="99.06" y="53.34" smashed="yes" rot="R180">
 <attribute name="NAME" x="101.6" y="50.8" size="1.27" layer="95" rot="R180"/>
 </instance>
-<instance part="CN2" gate="G$1" x="-172.72" y="25.4" smashed="yes" rot="MR0">
+<instance part="VOLT_TAPS" gate="G$1" x="-172.72" y="25.4" smashed="yes" rot="MR0">
 <attribute name="NAME" x="-168.91" y="39.37" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="-168.91" y="10.16" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="JP1" gate="A" x="-30.48" y="48.26" smashed="yes" rot="R180">
+<instance part="COMM" gate="A" x="-30.48" y="48.26" smashed="yes" rot="R180">
 <attribute name="NAME" x="-30.48" y="38.1" size="1.778" layer="95" rot="R180" align="top-center"/>
 <attribute name="VALUE" x="-30.48" y="55.88" size="1.778" layer="96" rot="R180" align="bottom-center"/>
 </instance>
@@ -14851,7 +14851,7 @@ Source:
 <label x="-137.16" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="5"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="5"/>
 <wire x1="-167.64" y1="25.4" x2="-172.72" y2="25.4" width="0.1524" layer="91"/>
 <label x="-167.64" y="25.4" size="1.778" layer="95"/>
 </segment>
@@ -14949,7 +14949,7 @@ Source:
 <label x="-152.4" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="3"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="3"/>
 <wire x1="-167.64" y1="30.48" x2="-172.72" y2="30.48" width="0.1524" layer="91"/>
 <label x="-167.64" y="30.48" size="1.778" layer="95"/>
 </segment>
@@ -15181,13 +15181,13 @@ Source:
 <label x="-167.64" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="JP1" gate="A" pin="4"/>
+<pinref part="COMM" gate="A" pin="4"/>
 <label x="-22.86" y="50.8" size="1.778" layer="95"/>
 <pinref part="U1" gate="A" pin="CTRL"/>
 <wire x1="-5.08" y1="50.8" x2="-25.4" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="1"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="1"/>
 <wire x1="-167.64" y1="35.56" x2="-172.72" y2="35.56" width="0.1524" layer="91"/>
 <label x="-167.64" y="35.56" size="1.778" layer="95"/>
 </segment>
@@ -15291,7 +15291,7 @@ Source:
 <junction x="104.14" y="40.64"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="4"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="4"/>
 <wire x1="-167.64" y1="27.94" x2="-172.72" y2="27.94" width="0.1524" layer="91"/>
 <label x="-167.64" y="27.94" size="1.778" layer="95"/>
 </segment>
@@ -15373,7 +15373,7 @@ Source:
 <label x="-160.02" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="2"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="2"/>
 <wire x1="-167.64" y1="33.02" x2="-172.72" y2="33.02" width="0.1524" layer="91"/>
 <label x="-167.64" y="33.02" size="1.778" layer="95"/>
 </segment>
@@ -15565,7 +15565,7 @@ Source:
 <wire x1="-5.08" y1="40.64" x2="-5.08" y2="43.18" width="0.1524" layer="91"/>
 <junction x="-5.08" y="40.64"/>
 <junction x="-5.08" y="43.18"/>
-<pinref part="JP1" gate="A" pin="1"/>
+<pinref part="COMM" gate="A" pin="1"/>
 <wire x1="-5.08" y1="43.18" x2="-25.4" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -15604,7 +15604,7 @@ Source:
 <segment>
 <pinref part="U1" gate="A" pin="CSBI"/>
 <label x="-7.62" y="48.26" size="1.778" layer="95"/>
-<pinref part="JP1" gate="A" pin="3"/>
+<pinref part="COMM" gate="A" pin="3"/>
 <wire x1="-5.08" y1="48.26" x2="-25.4" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -15612,7 +15612,7 @@ Source:
 <segment>
 <pinref part="U1" gate="A" pin="SCKI"/>
 <label x="-7.62" y="45.72" size="1.778" layer="95"/>
-<pinref part="JP1" gate="A" pin="2"/>
+<pinref part="COMM" gate="A" pin="2"/>
 <wire x1="-5.08" y1="45.72" x2="-25.4" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -15757,7 +15757,7 @@ Source:
 <label x="66.04" y="104.14" size="1.778" layer="95"/>
 <pinref part="Q1" gate="G$1" pin="S"/>
 <wire x1="81.28" y1="111.76" x2="81.28" y2="106.68" width="0.1524" layer="91"/>
-<pinref part="TP1" gate="G$1" pin="1"/>
+<pinref part="WDTA" gate="G$1" pin="1"/>
 <junction x="81.28" y="106.68"/>
 </segment>
 <segment>
@@ -16656,7 +16656,7 @@ Source:
 <wire x1="66.04" y1="-38.1" x2="66.04" y2="-33.02" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="6"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="6"/>
 <wire x1="-167.64" y1="22.86" x2="-172.72" y2="22.86" width="0.1524" layer="91"/>
 <label x="-167.64" y="22.86" size="1.778" layer="95"/>
 </segment>
@@ -16923,7 +16923,7 @@ Source:
 <junction x="73.66" y="-30.48"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="7"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="7"/>
 <wire x1="-167.64" y1="20.32" x2="-172.72" y2="20.32" width="0.1524" layer="91"/>
 <label x="-167.64" y="20.32" size="1.778" layer="95"/>
 </segment>
@@ -17188,7 +17188,7 @@ Source:
 <label x="83.82" y="-22.86" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="8"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="8"/>
 <wire x1="-167.64" y1="17.78" x2="-172.72" y2="17.78" width="0.1524" layer="91"/>
 <label x="-167.64" y="17.78" size="1.778" layer="95"/>
 </segment>
@@ -17265,7 +17265,7 @@ Source:
 <label x="43.18" y="-5.08" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="CN2" gate="G$1" pin="9"/>
+<pinref part="VOLT_TAPS" gate="G$1" pin="9"/>
 <wire x1="-167.64" y1="15.24" x2="-172.72" y2="15.24" width="0.1524" layer="91"/>
 <label x="-167.64" y="15.24" size="1.778" layer="95"/>
 </segment>
@@ -17512,7 +17512,7 @@ Source:
 </net>
 <net name="BAT+" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="1"/>
+<pinref part="BATT" gate="G$1" pin="1"/>
 <pinref part="F12" gate="G$1" pin="2"/>
 <wire x1="-238.76" y1="93.98" x2="-248.92" y2="93.98" width="0.1524" layer="91"/>
 <label x="-243.84" y="96.52" size="1.778" layer="95"/>
@@ -17531,54 +17531,54 @@ Source:
 </net>
 <net name="N$14" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="2"/>
+<pinref part="BATT" gate="G$1" pin="2"/>
 <pinref part="F11" gate="G$1" pin="1"/>
 <wire x1="-254" y1="91.44" x2="-248.92" y2="91.44" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$18" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="3"/>
+<pinref part="BATT" gate="G$1" pin="3"/>
 <pinref part="F10" gate="G$1" pin="2"/>
 <wire x1="-246.38" y1="88.9" x2="-248.92" y2="88.9" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$22" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="4"/>
+<pinref part="BATT" gate="G$1" pin="4"/>
 <pinref part="F9" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$23" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="5"/>
+<pinref part="BATT" gate="G$1" pin="5"/>
 <pinref part="F6" gate="G$1" pin="2"/>
 <wire x1="-238.76" y1="83.82" x2="-248.92" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$25" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="6"/>
+<pinref part="BATT" gate="G$1" pin="6"/>
 <pinref part="F5" gate="G$1" pin="1"/>
 <wire x1="-254" y1="81.28" x2="-248.92" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$26" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="7"/>
+<pinref part="BATT" gate="G$1" pin="7"/>
 <pinref part="F4" gate="G$1" pin="2"/>
 <wire x1="-246.38" y1="78.74" x2="-248.92" y2="78.74" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$28" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="8"/>
+<pinref part="BATT" gate="G$1" pin="8"/>
 <pinref part="F3" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$30" class="0">
 <segment>
-<pinref part="CN1" gate="G$1" pin="9"/>
+<pinref part="BATT" gate="G$1" pin="9"/>
 <pinref part="F15" gate="G$1" pin="2"/>
 <wire x1="-238.76" y1="73.66" x2="-248.92" y2="73.66" width="0.1524" layer="91"/>
 </segment>
@@ -17703,7 +17703,7 @@ Source:
 <segment>
 <pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="73.66" y1="17.78" x2="50.8" y2="17.78" width="0.1524" layer="91"/>
-<pinref part="TP2" gate="G$1" pin="1"/>
+<pinref part="WDTC" gate="G$1" pin="1"/>
 <label x="73.66" y="17.78" size="1.778" layer="95"/>
 <pinref part="Q2" gate="G$1" pin="S"/>
 <wire x1="99.06" y1="17.78" x2="73.66" y2="17.78" width="0.1524" layer="91"/>
@@ -17932,8 +17932,6 @@ Source:
 <approved hash="106,1,40.64,-50.8,I8P,,,,,"/>
 <approved hash="209,1,-5.08,-12.7,I8S,,,,,"/>
 <approved hash="106,1,-5.08,-12.7,I8S,,,,,"/>
-<approved hash="112,1,-247.65,88.9,,,,,,"/>
-<approved hash="112,1,-247.65,78.74,,,,,,"/>
 <approved hash="111,1,66.04,-30.48,C10,,,,,"/>
 <approved hash="111,1,83.82,17.78,WDTC,,,,,"/>
 <approved hash="113,1,-92.6846,149.86,D3C,,,,,"/>

@@ -13635,7 +13635,6 @@ Source:
 <part name="R15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="0"/>
 <part name="C15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C1210" package3d_urn="urn:adsk.eagle:package:23619/2" value="4.7uF"/>
 <part name="R16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="0"/>
-<part name="R17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="0"/>
 <part name="C17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C1210" package3d_urn="urn:adsk.eagle:package:23619/2" value="4.7uF"/>
 <part name="C18" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C1210" package3d_urn="urn:adsk.eagle:package:23619/2" value="4.7uF"/>
 </parts>
@@ -14757,10 +14756,6 @@ Source:
 <instance part="R16" gate="G$1" x="109.22" y="-22.86" smashed="yes" rot="R90">
 <attribute name="NAME" x="107.7214" y="-26.67" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="112.522" y="-26.67" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="R17" gate="G$1" x="116.84" y="-22.86" smashed="yes" rot="R90">
-<attribute name="NAME" x="115.3414" y="-26.67" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="120.142" y="-26.67" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="C17" gate="G$1" x="109.22" y="-30.48" smashed="yes">
 <attribute name="NAME" x="110.236" y="-29.845" size="1.778" layer="95"/>
@@ -16775,9 +16770,9 @@ Source:
 <label x="-167.64" y="22.86" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="R17" gate="G$1" pin="2"/>
-<wire x1="116.84" y1="-15.24" x2="116.84" y2="-17.78" width="0.1524" layer="91"/>
 <label x="116.84" y="-15.24" size="1.778" layer="95"/>
+<pinref part="C18" gate="G$1" pin="1"/>
+<wire x1="116.84" y1="-27.94" x2="116.84" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$91" class="0">
@@ -18018,7 +18013,7 @@ Source:
 <wire x1="-5.08" y1="-22.86" x2="-35.56" y2="-22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$78" class="0">
+<net name="C" class="0">
 <segment>
 <pinref part="U2" gate="A" pin="CSBI"/>
 <wire x1="-10.16" y1="-27.94" x2="-5.08" y2="-27.94" width="0.1524" layer="91"/>
@@ -18237,12 +18232,6 @@ Source:
 <segment>
 <pinref part="C17" gate="G$1" pin="1"/>
 <pinref part="R16" gate="G$1" pin="1"/>
-</segment>
-</net>
-<net name="N$94" class="0">
-<segment>
-<pinref part="C18" gate="G$1" pin="1"/>
-<pinref part="R17" gate="G$1" pin="1"/>
 </segment>
 </net>
 </nets>
