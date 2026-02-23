@@ -18013,7 +18013,7 @@ Source:
 <wire x1="-5.08" y1="-22.86" x2="-35.56" y2="-22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$78" class="0">
+<net name="C" class="0">
 <segment>
 <pinref part="U2" gate="A" pin="CSBI"/>
 <wire x1="-10.16" y1="-27.94" x2="-5.08" y2="-27.94" width="0.1524" layer="91"/>
