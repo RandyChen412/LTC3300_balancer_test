@@ -23,11 +23,13 @@ UsedLibrary="/Users/randy/Documents/EAGLE/libraries/balancer/Turret.lbr"
 UsedLibrary="/Users/randy/Documents/EAGLE/libraries/balancer/jst-vh.lbr"
 UsedLibrary="/Users/randy/Documents/EAGLE/libraries/balancer/RS07J-GS18.lbr"
 UsedLibrary="/Users/randy/Documents/EAGLE/libraries/balancer/FDN5618P.lbr"
+UsedLibraryUrn="urn:adsk.eagle:library:16378527"
+UsedLibrary="/Users/randy/Documents/EAGLE/libraries/balancer/PRL1632-R010-F-T1.lbr"
 
 [Win_1]
 Type="Control Panel"
 Number=0
 
 [Desktop]
-Screen="1280 832"
+Screen="1920 2036"
 Window="Win_1"
