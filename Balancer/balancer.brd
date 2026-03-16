@@ -5299,6 +5299,42 @@ design rules under a new name.</description>
 <vertex x="74.422" y="30.226"/>
 <vertex x="72.136" y="30.226"/>
 </polygon>
+<wire x1="117.19" y1="40.318" x2="119.03" y2="40.318" width="0" layer="19" extent="16-16"/>
+<wire x1="116.84" y1="34.7472" x2="117.19" y2="40.318" width="0" layer="19" extent="16-16"/>
+<wire x1="118.11" y1="23.98" x2="116.84" y2="34.7472" width="0" layer="19" extent="16-16"/>
+<wire x1="101.6" y1="38.1" x2="116.84" y2="34.7472" width="0" layer="19" extent="1-1"/>
+<wire x1="82.59" y1="28.5" x2="101.6" y2="38.1" width="0" layer="19" extent="1-1"/>
+<wire x1="80.09" y1="28.5" x2="82.59" y2="28.5" width="0" layer="19" extent="1-1"/>
+<wire x1="78.359" y1="28.448" x2="80.09" y2="28.5" width="0" layer="19" extent="1-1"/>
+<wire x1="78.359" y1="29.464" x2="78.359" y2="28.448" width="0" layer="19" extent="1-1"/>
+<wire x1="77.343" y1="29.464" x2="78.359" y2="29.464" width="0" layer="19" extent="1-1"/>
+<wire x1="77.343" y1="28.448" x2="78.359" y2="28.448" width="0" layer="19" extent="1-1"/>
+<wire x1="77.343" y1="27.432" x2="77.343" y2="28.448" width="0" layer="19" extent="1-1"/>
+<wire x1="76.2" y1="28.448" x2="77.343" y2="28.448" width="0" layer="19" extent="1-1"/>
+<wire x1="76.2" y1="29.464" x2="76.2" y2="28.448" width="0" layer="19" extent="1-1"/>
+<wire x1="76.2" y1="27.432" x2="76.2" y2="28.448" width="0" layer="19" extent="1-1"/>
+<wire x1="74.806" y1="28.321" x2="76.2" y2="28.448" width="0" layer="19" extent="1-1"/>
+<wire x1="74.806" y1="24.765" x2="76.2" y2="27.432" width="0" layer="19" extent="1-1"/>
+<wire x1="76.835" y1="23.887" x2="74.806" y2="24.765" width="0" layer="19" extent="1-1"/>
+<wire x1="73.028" y1="31.623" x2="74.806" y2="28.321" width="0" layer="19" extent="1-16"/>
+<wire x1="71.247" y1="49.877" x2="64.516" y2="35.753" width="0" layer="19" extent="1-1"/>
+<wire x1="72.006" y1="52.832" x2="71.247" y2="49.877" width="0" layer="19" extent="1-1"/>
+<wire x1="70.485" y1="54.864" x2="72.006" y2="52.832" width="0" layer="19" extent="1-1"/>
+<wire x1="70.485" y1="55.88" x2="70.485" y2="54.864" width="0" layer="19" extent="1-1"/>
+<wire x1="70.485" y1="56.896" x2="70.485" y2="55.88" width="0" layer="19" extent="1-1"/>
+<wire x1="69.469" y1="55.88" x2="70.485" y2="55.88" width="0" layer="19" extent="1-1"/>
+<wire x1="69.469" y1="56.896" x2="70.485" y2="56.896" width="0" layer="19" extent="1-1"/>
+<wire x1="69.469" y1="54.864" x2="70.485" y2="54.864" width="0" layer="19" extent="1-1"/>
+<wire x1="68.453" y1="56.896" x2="69.469" y2="56.896" width="0" layer="19" extent="1-1"/>
+<wire x1="68.453" y1="55.88" x2="69.469" y2="55.88" width="0" layer="19" extent="1-1"/>
+<wire x1="68.453" y1="54.864" x2="69.469" y2="54.864" width="0" layer="19" extent="1-1"/>
+<wire x1="72.006" y1="56.261" x2="70.485" y2="55.88" width="0" layer="19" extent="1-1"/>
+<wire x1="68.58" y1="67.18" x2="68.453" y2="56.896" width="0" layer="19" extent="16-16"/>
+<wire x1="47.879" y1="30.088" x2="64.516" y2="35.753" width="0" layer="19" extent="1-1"/>
+<wire x1="46.101" y1="29.172" x2="47.879" y2="30.088" width="0" layer="19" extent="1-1"/>
+<wire x1="44.323" y1="29.072" x2="46.101" y2="29.172" width="0" layer="19" extent="1-1"/>
+<wire x1="46.609" y1="26.046" x2="46.101" y2="29.172" width="0" layer="19" extent="1-1"/>
+<wire x1="37.1983" y1="32.77" x2="44.323" y2="29.072" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="G6P">
 <contactref element="U1" pad="38"/>
