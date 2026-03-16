@@ -2759,8 +2759,8 @@
 <devices>
 <device name="" package="SDO_POWERDI123_DIO">
 <connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
+<connect gate="A" pin="1" pad="2"/>
+<connect gate="A" pin="2" pad="1"/>
 </connects>
 <technologies>
 <technology name="">
